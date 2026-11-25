@@ -5,7 +5,7 @@ at small sample sizes, implemented as [omnibenchmark](https://omnibenchmark.org)
 Random subsets of 2–20 replicates of the 48-replicate yeast WT vs snf2 experiment
 (Schurch et al. 2016) are scored against the full-replicate comparison.
 
-**Plan:** https://github.com/sta425-replicates/sta425_Project
+**Plan:** https://github.com/sta426replicates/sta426_Project
 
 ## Modules
 
