@@ -11,12 +11,12 @@ Random subsets of 2–20 replicates of the 48-replicate yeast WT vs snf2 experim
 
 | Stage     | Repository | Entrypoints | Outputs |
 |-----------|------------|-------------|---------|
-| Data      | https://github.com/sta425-replicates/sta426_data | `default` | `counts.tsv.gz`, `coldata.tsv` |
-| Truth     | https://github.com/sta425-replicates/sta426_truth | `default` | `truth.tsv` |
-| Subsample | https://github.com/sta425-replicates/sta426_subsample | `default` | `counts.tsv.gz`, `coldata.tsv`, `subsample.json` |
-| DE        | https://github.com/sta425-replicates/sta426_de | `deseq2`, `edger`, `limma_voom`, `wilcoxon` | `de_results.tsv`, `de_info.json` |
-| Metrics   | https://github.com/sta425-replicates/sta426_metrics | `default` | `scores.tsv` |
-| Summary   | https://github.com/sta425-replicates/sta426_summary | `default` | `summary.tsv`, `stability.tsv`, `report.html` |
+| Data      | https://github.com/sta426replicates/sta426_data | `default` | `counts.tsv.gz`, `coldata.tsv` |
+| Truth     | https://github.com/sta426replicates/sta426_truth | `default` | `truth.tsv` |
+| Subsample | https://github.com/sta426replicates/sta426_subsample | `default` | `counts.tsv.gz`, `coldata.tsv`, `subsample.json` |
+| DE        | https://github.com/sta426replicates/sta426_de | `deseq2`, `edger`, `limma_voom`, `wilcoxon` | `de_results.tsv`, `de_info.json` |
+| Metrics   | https://github.com/sta426replicates/sta426_metrics | `default` | `scores.tsv` |
+| Summary   | https://github.com/sta426replicates/sta426_summary | `default` | `summary.tsv`, `stability.tsv`, `report.html` |
 
 ## Contributing
 
